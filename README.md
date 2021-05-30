@@ -17,6 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 #Images of the application:
 
-#Image Logo
+#Application Screenshot
 
 <img src="https://github.com/Gaurang-Belekar/I-am-rich-app/blob/main/App%20Images/Screenshot_20210530-111316.jpg" width="500" height="1000"/>
+
+#Application LOGO
+
+<img src="https://github.com/Gaurang-Belekar/I-am-rich-app/blob/main/App%20Images/Screenshot_20210530-111323_One%20UI%20Home.jpg" width="200" height="200" />
