@@ -20,3 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 Images of the application:
 
 Logo:
+https://github.com/Gaurang-Belekar/I-am-rich-app/blob/main/App%20Images/Screenshot_20210530-111316.jpg
