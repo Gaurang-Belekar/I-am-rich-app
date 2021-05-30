@@ -14,10 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# I-am-rich-app
-# I-am-rich-app
 
-Images of the application:
+#Images of the application:
 
-Logo:
-![] (https://github.com/Gaurang-Belekar/I-am-rich-app/blob/main/App%20Images/Screenshot_20210530-111316.jpg)
+#Image Logo
+
+<img src="https://github.com/Gaurang-Belekar/I-am-rich-app/blob/main/App%20Images/Screenshot_20210530-111316.jpg" width="500" height="1000"/>
