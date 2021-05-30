@@ -16,3 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # I-am-rich-app
 # I-am-rich-app
+
+Images of the application:
+
+Logo:
